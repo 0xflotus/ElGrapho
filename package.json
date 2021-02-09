@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.10",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "gl-matrix": "^2.6.1",
     "concretejs": "^3.0.2",
     "d3-force": "^2.0.1"
